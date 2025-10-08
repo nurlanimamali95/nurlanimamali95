@@ -16,4 +16,4 @@ React, Next.js, Node.js, Express, Tailwind, Bootstrap, Material UI, Shadcn/UI, F
 **Tools & Platforms:**  
 Git, MongoDB, GitHub, VS Code, Netlify, Vercel, Payload CMS
 
-🚀 You can explore my work and projects on my [portfolio website]([https://nurlanimamali.tech/](https://www.nidev.nl/).
+🚀 You can explore my work and projects on my [portfolio website]([[https://nurlanimamali.tech/](https://www.nidev.nl/)].
